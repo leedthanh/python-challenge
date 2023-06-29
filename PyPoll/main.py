@@ -1,7 +1,9 @@
-import os
-import csv
+import pandas as pd
+from pathlib import Path
 
-path = os.getcwd()
+csv_path = Path('/Users/thanhle/GitHub/python-challenge/PyPoll/Resources/election_data.csv')
 
-print(path)
+poll_df = pd.read_csv(csv_path)
+
+poll_df.head()
 
