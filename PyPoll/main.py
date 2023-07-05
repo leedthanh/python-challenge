@@ -8,11 +8,11 @@ csv_path = Path('/Users/thanhle/GitHub/python-challenge/PyPoll/Resources/electio
 candidate_list = []
 candidate_vote = {}
 line = ("-----------------------------------------")
-header = ("Election Results")
+title = ("Election Results")
 space = (" ")
 with open(csv_path, encoding='UTF-8') as csvfile: #open csv
     csvreader = csv.reader(csvfile, delimiter=",") #reader csv
-    print(header)
+    print(title)
     print(space)
     print(line)
     header = next(csvreader) #skip header
