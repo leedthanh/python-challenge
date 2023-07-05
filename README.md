@@ -25,6 +25,11 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
+This is the final result 
+
+![Screen Shot 2023-07-05 at 1 37 41 AM](https://github.com/leedthanh/python-challenge/assets/135544908/d894a0da-f387-47a5-9cfc-9a2942fabd4b)
+
+
 
 PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
@@ -40,4 +45,8 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 
 The winner of the election based on popular vote
+
+This is the final result 
+
+![Screen Shot 2023-07-05 at 1 36 36 AM](https://github.com/leedthanh/python-challenge/assets/135544908/6eec3ed1-bf0c-494b-b964-a1dd9512b3e1)
 
