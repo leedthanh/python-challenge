@@ -1,19 +1,10 @@
-# python-challenge
-Week 4 challenge due date July 5th
-
-Clone the new repository to your computer 
-inside your local Git repository, create a folder for each Python assignment and name them PyBank and PyPoll.
-in each folder that you just created, add the following content:
-a new file called main.py  .  this will be the main script to run for each analysis.
-a resources folder that contains the csv files you used.  Make sure that your script has the correct path to the csv file.
-an analysis folder that contains your text file that has the results from your analysis 
-push these changes to Gibhub or Gitlab
+Analysis using python
 
 
 PyBank Instructions
-In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+In this Challenge, I was tasked with creating a Python script to analyze the financial records of your company. I was given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
-Your task is to create a Python script that analyzes the records to calculate each of the following values:
+My task is to create a Python script that analyzes the records to calculate each of the following values:
 
 The total number of months included in the dataset
 
@@ -31,10 +22,10 @@ This is the final result
 
 
 
-PyPoll Instructions
-In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
+PyPoll Analysis
+In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
 
-You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+I  was given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task is to create a Python script that analyzes the votes and calculates each of the following values:
 
 The total number of votes cast
 
